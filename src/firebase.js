@@ -17,6 +17,7 @@ import {
   addDoc,
 } from "firebase/firestore";
 
+// oops already updated them before git init
 const firebaseConfig = {
   apiKey: "AIzaSyByqTxDYigsVpQRIbiiwbFhm7s8jfA5eYo",
   authDomain: "fir-auth-article-master-dd645.firebaseapp.com",
