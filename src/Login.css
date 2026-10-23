@@ -16,17 +16,17 @@
 
 .login__textBox {
   padding: 10px;
-  font-size: 18px;
+  font-size: 20px;
   margin-bottom: 10px;
 }
 
 .login__btn {
   padding: 10px;
-  font-size: 18px;
+  font-size: 20px;
   margin-bottom: 10px;
   border: none;
   color: white;
-  background-color: black;
+  background-color: purple;
 }
 
 .login__google {
